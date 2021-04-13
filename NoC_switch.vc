@@ -1,0 +1,11 @@
+//----- Options
+-libext .v,.sv
+-access rwc
+-sv
+//- Files in this directory
+-y ./
+-incdir ./
+//--- File to be compiled
+./NoC_switch.v
+
+

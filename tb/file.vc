@@ -1,0 +1,12 @@
+//----- Options
+-libext .v,.sv
+-access rwc
+-sv
+
+-y ./
+-incdir ./
+
+-y ../
+-incdir ../
+
+../subArray.v
